@@ -1,0 +1,81 @@
+@import url(https://fonts.googleapis.com/css?family=Handlee|Pacifico);
+
+body {
+	margin: 0;
+    text-align: center;
+
+    color: black;
+}
+
+/*
+Typography
+*/
+
+h1 {
+    font-weight: 800;
+    font-size: 3rem;
+    margin: 0 auto;
+}
+
+p {
+    font-size: 1.2rem;
+}
+
+/*
+Layout
+*/
+
+.page {
+    margin: 0 auto;
+}
+
+.header {
+    width: 25rem;
+    height: 6rem;
+
+    margin: 0 auto;
+    margin-top: 8rem;
+
+    padding: 0.5rem;
+
+    border-radius: 1rem;
+}
+
+.container {
+    margin: 2rem 0;
+    justify-content: center;
+    
+    border-radius: 1rem;
+    width: 100%;
+    display: flex;
+}
+
+.container .keys {
+    margin: 0 0.5rem;
+    padding: 1.5rem 0.5rem;  
+
+    border: solid 1px rgb(0, 0, 0);
+    border-radius: 1rem;
+
+    background-color: rgb(77, 115, 241);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
